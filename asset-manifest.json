@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React_personal_site/static/css/main.f07c1ebe.chunk.css",
+    "main.js": "/React_personal_site/static/js/main.9135faf7.chunk.js",
+    "main.js.map": "/React_personal_site/static/js/main.9135faf7.chunk.js.map",
+    "runtime-main.js": "/React_personal_site/static/js/runtime-main.dfb791e7.js",
+    "runtime-main.js.map": "/React_personal_site/static/js/runtime-main.dfb791e7.js.map",
+    "static/js/2.4d462590.chunk.js": "/React_personal_site/static/js/2.4d462590.chunk.js",
+    "static/js/2.4d462590.chunk.js.map": "/React_personal_site/static/js/2.4d462590.chunk.js.map",
+    "index.html": "/React_personal_site/index.html",
+    "precache-manifest.c5af1d334d924b38b173a7ab1d33e2ef.js": "/React_personal_site/precache-manifest.c5af1d334d924b38b173a7ab1d33e2ef.js",
+    "service-worker.js": "/React_personal_site/service-worker.js",
+    "static/css/main.f07c1ebe.chunk.css.map": "/React_personal_site/static/css/main.f07c1ebe.chunk.css.map",
+    "static/js/2.4d462590.chunk.js.LICENSE.txt": "/React_personal_site/static/js/2.4d462590.chunk.js.LICENSE.txt",
+    "static/media/bg_video.mp4": "/React_personal_site/static/media/bg_video.0c7d9490.mp4",
+    "static/media/photo.jpg": "/React_personal_site/static/media/photo.70244f0a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dfb791e7.js",
+    "static/js/2.4d462590.chunk.js",
+    "static/css/main.f07c1ebe.chunk.css",
+    "static/js/main.9135faf7.chunk.js"
+  ]
+}
