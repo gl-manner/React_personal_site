@@ -13,7 +13,7 @@ ReactDOM.render(
         <source src={bkvideo} type="video/mp4" />
       </video>
       <div className="bg-video__overlay">
-        <img src={bkphoto} alt="personal photo" />
+        <img src={bkphoto} alt="personal" />
       </div>
     </div>
     <App />
