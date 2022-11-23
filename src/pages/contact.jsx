@@ -342,7 +342,7 @@ class contact extends Component {
               </div>
               <div className="contact__social">
                 <h3 className="phone-number">
-                  Location : Reverside, OH
+                  Location : Reverside, CA
                   <br />
                   Phone : +1 (951) 527 5695‬
                 </h3>
